@@ -26,7 +26,7 @@ Tenho 26 anos, apaixonado por técnologia e desenvolvimento, em específico Back
 
 <p align="left">
 
-  <a href="tomz.contato@gmail.com" title="Gmail">
+  <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tomz.contato@gmail.com" alt="Gmail"/></a>
 
   <a href="https://www.linkedin.com/in/tuliorodriguestomz/" title="LinkedIn">
@@ -35,7 +35,7 @@ Tenho 26 anos, apaixonado por técnologia e desenvolvimento, em específico Back
   <a href="https://wa.me/5534991594765">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5534991594765" alt="WhatsApp"/></a>
 
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/therealtomz/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/therealtomz/" alt="Instagram"/></a>
 
 </p>
