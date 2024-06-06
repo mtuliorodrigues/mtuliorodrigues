@@ -29,6 +29,8 @@ Tenho 26 anos, apaixonado por técnologia e desenvolvimento, em específico Back
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" alt="LinkedIn"/></a>
-  <a href="https://github.com/mtuliorodrigues" title="WhatsApp">
+  <a href="#">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://github.com/mtuliorodrigues" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/therealtomz/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/therealtomz/" alt="Instagram"/></a>
 </p>
