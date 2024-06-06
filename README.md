@@ -22,7 +22,7 @@ Tenho 26 anos, apaixonado por técnologia e desenvolvimento, em específico Back
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-## Onde me encontrar
+## Onde me encontrar :)
 
 <p align="left">
   <a href="#" title="Gmail">
