@@ -3,7 +3,7 @@
 Tenho 26 anos, apaixonado por técnologia e desenvolvimento, em específico Back-end, atualmente estudando e fazendo Bootcamp (Desenvolvedor Java com IA da DIO Cursos), também já passei pelo Dart/Flutter a um tempo atrás e sempre em busca de conhecimento! 
 
 
-🔭 Atualmente desenvolvendo projetos pessoais para portfólio e buscando minha primeira vaga como estagiário/junior como back-end Java 🚧
+🔭 Atualmente desenvolvendo projetos pessoais para portfólio e 'open to work' como back-end Java 🚧
 
 💬 Fique a vontade para mandar mensagem, convidar para projetos etc...
 
@@ -11,8 +11,8 @@ Tenho 26 anos, apaixonado por técnologia e desenvolvimento, em específico Back
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="c"/></code>
 
 
 ---
