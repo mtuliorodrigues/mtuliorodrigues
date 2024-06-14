@@ -1,7 +1,6 @@
 ## 💜✨ Olá, meu nome é Marco Túlio!
 
-Tenho 26 anos, apaixonado por técnologia e desenvolvimento, em específico Back-end, atualmente estudando e fazendo Bootcamp (Desenvolvedor Java com IA da DIO Cursos), também já passei pelo Dart/Flutter a um tempo atrás e sempre em busca de conhecimento! 
-
+Tenho 26 anos, Software Developer e apaixonado por técnologia e desenvolvimento. Comecei a me aprofundar mesmo com o Dart/Flutter onde fiquei um bom tempo estudando enquanto trabalhava na área de TI com Analista de Redes Pleno, no momento estudando Java (Bootcamp Dev Java DIO) back-end.
 
 🔭 Atualmente desenvolvendo projetos pessoais para portfólio e 'open to work' como back-end Java 🚧
 
@@ -9,7 +8,18 @@ Tenho 26 anos, apaixonado por técnologia e desenvolvimento, em específico Back
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 Soft Skills
+
+- Habilidade de liderança;
+- Comunicação;
+- Inteligência emocional;
+- Flexibilidade E Resiliência;
+- Trabalho Em Equipe;
+
+---
+
+
+## 🚀 Hard Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="c"/></code>
