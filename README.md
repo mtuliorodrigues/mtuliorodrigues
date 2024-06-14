@@ -8,7 +8,7 @@ Tenho 26 anos, Software Developer e apaixonado por técnologia e desenvolvimento
 
 ---
 
-## 🚀 Soft Skills
+## 🙍‍♂️ Soft Skills
 
 - Habilidade de liderança;
 - Comunicação;
